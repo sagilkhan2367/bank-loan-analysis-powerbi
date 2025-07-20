@@ -56,7 +56,7 @@ This project is part of my Data Analyst portfolio and demonstrates how Power BI 
 
 ## 🔗 Related Links
 
-- 📄 [LinkedIn Post](https://www.linkedin.com/in/md-sagil-khan-949574361)
+- 📄 [LinkedIn Post](https://www.linkedin.com/posts/md-sagil-khan-949574361_powerbi-dataanalytics-portfolioproject-activity-7352679503564886016-5G_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFn2Y0kBMUHbs0WGoFOTAsvE--rsSCkxV_s)
 - 🙋‍♂️ Connect with me: [Md Sagil Khan on LinkedIn](https://www.linkedin.com/in/md-sagil-khan-949574361)
 
 ---
