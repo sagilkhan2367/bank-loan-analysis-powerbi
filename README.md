@@ -14,14 +14,20 @@ This project is part of my Data Analyst portfolio and demonstrates how Power BI 
 
 | File Name                     | Description                                  |
 |------------------------------|----------------------------------------------|
- - <a href="https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/Bank%20loan%20report.pbix">Power Bi dashboard</a>    | Power BI dashboard project                   
- - < href="https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/Bank%20Loan%20Analysis%20Power%20BI.pptx">PPT</a> | Project presentation slides
- - < href="https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/SUMMARY.png">Dashboard 2</a>        |
- - < href=" https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/OVERVIEW.png">Dashboard1</a>      | Preview of the dashboards                - < href="https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/DETAILS.png">Dashboard 3</a>
+- <a href="https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/Bank%20loan%20report.pbix">Power Bi dashboard</a>    | Power BI dashboard project                   
+- <a href="https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/Bank%20Loan%20Analysis%20Power%20BI.pptx">PPT</a> | Project presentation slides
+
+---
+## 📷 Dashboard Preview
+
+(https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/SUMMARY.png)Dashboard 2</a>        
+(https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/OVERVIEW.png)Dashboard1</a>                      - < (https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/DETAILS.png)Dashboard 3</a>
+
 ---
 
 ## Dataset Used
 - <a href="https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/financial_loan%20(1)%20(1).csv#:~:text=SUMMARY.png-,financial_loan%20(1)%20(1).csv,-bank%2Dloan%2Danalysis">Raw Data</a>
+
 ---
 
 ## 🛠 Tools & Techniques
