@@ -20,8 +20,9 @@ This project is part of my Data Analyst portfolio and demonstrates how Power BI 
 ---
 ## 📷 Dashboard Preview
 
-(https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/SUMMARY.png)   
-(https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/OVERVIEW.png)          (https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/DETAILS.png)
+![DASHBOARD 1](https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/SUMMARY.png)   
+![DASHBOARD 2](https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/OVERVIEW.png)          
+![DASHBOARD 3](https://github.com/sagilkhan2367/bank-loan-analysis-powerbi/blob/main/DETAILS.png)
 
 ---
 
